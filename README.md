@@ -1,6 +1,6 @@
 # 本项目fork自0ranko0P/twrp_device_xiaomi_sagit，暂无修改，感谢@0ranko0P的贡献。
 
-## 本项目可用于编译OrangeFox_11，按以下步骤编译：
+## 本项目可用于编译OrangeFox_A11，按以下步骤编译：
 
 打开并按以下顺序执行网站中的编译教程：https://wiki.orangefox.tech/en/dev/building
 
