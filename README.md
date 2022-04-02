@@ -1,3 +1,18 @@
+# 本项目fork自0ranko0P/twrp_device_xiaomi_sagit，暂无修改，感谢@0ranko0P的贡献。
+
+## 本项目可用于编译OrangeFox_11，按以下步骤编译：
+打开并按以下顺序执行网站中的编译教程：https://wiki.orangefox.tech/en/dev/building
+1、执行步骤0、1A
+2、步骤2调整为：
+  cd ~/fox_11.0
+  git clone https://github.com/JavisWiki/orangefox-A11_device_xiaomi_sagit.git -b android-11 device/xiaomi/sagit
+3、执行步骤3，其中最终启动编译的命令使用：
+lunch twrp_sagit-eng && mka recoveryimage
+
+以上。
+
+
+
 # android_device_xiaomi_sagit
 Tree for building TWRP for Xiaomi MI 6
 
